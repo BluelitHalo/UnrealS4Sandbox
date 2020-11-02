@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.unreals4sandbox-13942748.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Ashwin Chakilum/Documents/Unreal Projects/UnrealS4Sandbox/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "UnrealS4Sandbox-13942748 [UE Editor]"
+				}
+			}
+		}
+	]
+}
